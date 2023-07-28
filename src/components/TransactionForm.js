@@ -7,6 +7,7 @@ function TransactionForm({ onAddTransaction }) {
   const handleSubmit = (e) => {
     e.preventDefault();
     // Create a new transaction object with user input
+    //capture the user input from the form and assign values to it
     const newTransaction = {
       id: Date.now(),
       date: new Date().toISOString().slice(0, 10),
