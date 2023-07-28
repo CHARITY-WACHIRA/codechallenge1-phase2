@@ -9,7 +9,7 @@
 * usage
 * license
 
-## Requirements
+# Requirements
 you require a laptop or smartphone
 you require to have good internet connection
 
